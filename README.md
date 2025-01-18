@@ -15,3 +15,7 @@ I am a computer science student with a passion for software engineering and mach
 
 ## Fun Fact
 I enjoy learning new idioms and expanding my vocabulary in English.
+
+##Hobbies 
+I Play Cricket and Football as a Hobby
+I also listen Music 
